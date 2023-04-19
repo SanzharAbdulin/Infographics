@@ -1,2 +1,3 @@
 # Infographics
-My design portfolio
+My inforgraphics first attempt
+
